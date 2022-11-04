@@ -1,0 +1,18 @@
+{
+  "name": "testtwitbot",
+  "version": "1.0.0",
+  "description": "this is a test for twit bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twit",
+    "bot"
+  ],
+  "author": "emmaly nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
