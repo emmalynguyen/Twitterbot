@@ -1,3 +1,5 @@
+// Twitter account: @2700_tb
+
 // Our Twitter library
 var Twit = require('twit');
 
